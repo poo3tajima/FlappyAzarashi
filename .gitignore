@@ -1,0 +1,3 @@
+# Allow VS Code project setting to be versioned
+!.vscode/
+!.vscode/settings.json
